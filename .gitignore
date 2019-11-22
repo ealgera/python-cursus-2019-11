@@ -1,0 +1,5 @@
+Data/
+venv/
+__pycache__/
+pyvenv.cfg
+.~lock.*
