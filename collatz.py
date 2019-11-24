@@ -12,8 +12,6 @@ def collatz(nummer):
 
 n = int(input("Geef een getal: "))
 
-while collatz(n) != 1:
-    print(str(n).rjust(3), collatz(n))
+while n > 1:
+    print(collatz(n))
     n = collatz(n)
-
-print(str(n).rjust(3), collatz(n))
