@@ -2,3 +2,7 @@ Url's Stack Overflow
 Algemeen: https://insights.stackoverflow.com/survey
 Link naar ZIP: https://drive.google.com/uc?authuser=0&id=1QOmVDpd8hcVYqqUXDXf68UMDWQZP0wQV&export=download
 
+Corey Schafer:
+Python Data Science Tutorial: Analyzing the 2019 Stack Overflow Developer Survey
+https://www.youtube.com/watch?v=_P7X8tMplsw&t=2654s
+
