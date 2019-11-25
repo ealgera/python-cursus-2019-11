@@ -1,10 +1,9 @@
-lijst_a = [1, 2, 3, 4]
-lijst_b = [2, 3, 4, 5]
+import zipfile
 
-for a in lijst_a:
-    for b in lijst_b:
-        if a == b:
-            print(b)
+with (zipfile.ZipFile("data.zip", "r")) as my_zipfile:
 
-gelijke_nrs = [b for a in lijst_a for b in lijst_b if a == b]
-print(gelijke_nrs)
+    # for item in my_zipfile.namelist():
+    # print(item)
+    my_zipfile.extractall("Data")
+
+# my_zipfile.close()

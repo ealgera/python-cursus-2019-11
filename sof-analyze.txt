@@ -1,100 +1,175 @@
-NA
-	HTML/CSS: 54.9%
-	Python: 51.09%
-	JavaScript: 50.58%
-Developer, desktop or enterprise applications
-	JavaScript: 67.84%
-	HTML/CSS: 64.55%
-	SQL: 63.56%
-Developer, front-end
-	JavaScript: 87.72%
-	HTML/CSS: 83.62%
-	SQL: 58.65%
-Designer
-	HTML/CSS: 78.88%
-	JavaScript: 78.33%
-	SQL: 60.18%
-Developer, back-end
-	JavaScript: 72.23%
-	HTML/CSS: 65.42%
-	SQL: 64.01%
-Developer, full-stack
-	JavaScript: 86.15%
-	HTML/CSS: 78.94%
-	SQL: 65.54%
-Academic researcher
-	Python: 61.06%
-	HTML/CSS: 55.87%
-	JavaScript: 54.25%
-Developer, mobile
-	JavaScript: 67.72%
-	HTML/CSS: 62.46%
-	Java: 57.21%
-Data or business analyst
-	SQL: 73.88%
-	HTML/CSS: 62.11%
-	JavaScript: 61.33%
-Data scientist or machine learning specialist
-	Python: 79.33%
-	SQL: 58.44%
-	JavaScript: 51.38%
-Database administrator
-	SQL: 81.7%
-	JavaScript: 78.11%
-	HTML/CSS: 76.19%
-Engineer, data
-	SQL: 66.75%
-	Python: 64.31%
-	JavaScript: 60.13%
-Engineer, site reliability
-	JavaScript: 69.43%
-	Bash/Shell/PowerShell: 64.05%
-	HTML/CSS: 62.79%
-Developer, QA or test
-	JavaScript: 73.38%
-	HTML/CSS: 70.31%
-	SQL: 64.81%
-DevOps specialist
-	JavaScript: 73.67%
-	HTML/CSS: 66.66%
-	SQL: 64.56%
-Developer, game or graphics
-	JavaScript: 69.02%
-	HTML/CSS: 66.37%
-	C#: 54.31%
-Educator
-	JavaScript: 70.15%
-	HTML/CSS: 70.15%
-	SQL: 56.92%
-Student
-	HTML/CSS: 68.13%
-	JavaScript: 63.53%
-	Java: 54.37%
-Engineering manager
-	JavaScript: 72.35%
-	HTML/CSS: 65.02%
-	SQL: 60.4%
-Senior executive/VP
-	JavaScript: 75.94%
-	HTML/CSS: 71.81%
-	SQL: 64.12%
-System administrator
-	JavaScript: 73.45%
-	HTML/CSS: 72.57%
-	SQL: 67.94%
-Developer, embedded applications or devices
-	JavaScript: 60.89%
-	HTML/CSS: 57.75%
-	C++: 51.08%
-Product manager
-	JavaScript: 75.0%
-	HTML/CSS: 71.92%
-	SQL: 63.42%
-Scientist
-	Python: 69.48%
-	HTML/CSS: 51.04%
-	JavaScript: 48.77%
-Marketing or sales professional
-	HTML/CSS: 76.82%
-	JavaScript: 71.79%
-	SQL: 58.97%
+NA (7548)
+	HTML/CSS, 54.9%
+	Python, 51.1%
+	JavaScript, 50.6%
+	Java, 42.7%
+	C++, 35.0%
+
+Developer, desktop or enterprise applications (17316)
+	JavaScript, 67.8%
+	HTML/CSS, 64.6%
+	SQL, 63.6%
+	C#, 53.7%
+	Java, 44.7%
+
+Developer, front-end (26649)
+	JavaScript, 87.7%
+	HTML/CSS, 83.6%
+	SQL, 58.7%
+	Java, 37.6%
+	PHP, 35.9%
+
+Designer (9182)
+	HTML/CSS, 78.9%
+	JavaScript, 78.3%
+	SQL, 60.2%
+	PHP, 40.2%
+	Java, 39.4%
+
+Developer, back-end (40665)
+	JavaScript, 72.2%
+	HTML/CSS, 65.4%
+	SQL, 64.0%
+	Java, 44.0%
+	Python, 40.7%
+
+Developer, full-stack (42222)
+	JavaScript, 86.2%
+	HTML/CSS, 78.9%
+	SQL, 65.5%
+	Java, 40.7%
+	Bash/Shell/PowerShell, 37.9%
+
+Academic researcher (5930)
+	Python, 61.1%
+	HTML/CSS, 55.9%
+	JavaScript, 54.2%
+	SQL, 47.6%
+	Java, 42.3%
+
+Developer, mobile (14698)
+	JavaScript, 67.7%
+	HTML/CSS, 62.5%
+	Java, 57.2%
+	SQL, 51.3%
+	C#, 34.3%
+
+Data or business analyst (6294)
+	SQL, 73.9%
+	HTML/CSS, 62.1%
+	JavaScript, 61.3%
+	Python, 51.9%
+	Bash/Shell/PowerShell, 38.4%
+
+Data scientist or machine learning specialist (6460)
+	Python, 79.3%
+	SQL, 58.4%
+	JavaScript, 51.4%
+	HTML/CSS, 50.4%
+	Bash/Shell/PowerShell, 44.5%
+
+Database administrator (9520)
+	SQL, 81.7%
+	JavaScript, 78.1%
+	HTML/CSS, 76.2%
+	Bash/Shell/PowerShell, 45.2%
+	PHP, 44.2%
+
+Engineer, data (5819)
+	SQL, 66.7%
+	Python, 64.3%
+	JavaScript, 60.1%
+	HTML/CSS, 56.5%
+	Bash/Shell/PowerShell, 48.5%
+
+Engineer, site reliability (2951)
+	JavaScript, 69.4%
+	Bash/Shell/PowerShell, 64.0%
+	HTML/CSS, 62.8%
+	SQL, 61.4%
+	Python, 59.2%
+
+Developer, QA or test (6359)
+	JavaScript, 73.4%
+	HTML/CSS, 70.3%
+	SQL, 64.8%
+	Bash/Shell/PowerShell, 45.7%
+	Java, 45.2%
+
+DevOps specialist (8862)
+	JavaScript, 73.7%
+	HTML/CSS, 66.7%
+	SQL, 64.6%
+	Bash/Shell/PowerShell, 64.0%
+	Python, 52.4%
+
+Developer, game or graphics (4439)
+	JavaScript, 69.0%
+	HTML/CSS, 66.4%
+	C#, 54.3%
+	SQL, 48.9%
+	C++, 47.8%
+
+Educator (4492)
+	JavaScript, 70.1%
+	HTML/CSS, 70.1%
+	SQL, 56.9%
+	Python, 47.0%
+	Java, 44.3%
+
+Student (11921)
+	HTML/CSS, 68.1%
+	JavaScript, 63.5%
+	Java, 54.4%
+	Python, 54.4%
+	SQL, 51.8%
+
+Engineering manager (4202)
+	JavaScript, 72.3%
+	HTML/CSS, 65.0%
+	SQL, 60.4%
+	Bash/Shell/PowerShell, 49.1%
+	Python, 46.9%
+
+Senior executive/VP (2107)
+	JavaScript, 75.9%
+	HTML/CSS, 71.8%
+	SQL, 64.1%
+	Bash/Shell/PowerShell, 46.8%
+	Python, 46.4%
+
+System administrator (8929)
+	JavaScript, 73.4%
+	HTML/CSS, 72.6%
+	SQL, 67.9%
+	Bash/Shell/PowerShell, 58.4%
+	Python, 51.4%
+
+Developer, embedded applications or devices (7248)
+	JavaScript, 60.9%
+	HTML/CSS, 57.8%
+	C++, 51.1%
+	SQL, 51.0%
+	Python, 51.0%
+
+Product manager (4032)
+	JavaScript, 75.0%
+	HTML/CSS, 71.9%
+	SQL, 63.4%
+	Python, 39.6%
+	Bash/Shell/PowerShell, 39.0%
+
+Scientist (3617)
+	Python, 69.5%
+	HTML/CSS, 51.0%
+	JavaScript, 48.8%
+	Bash/Shell/PowerShell, 47.8%
+	SQL, 44.2%
+
+Marketing or sales professional (975)
+	HTML/CSS, 76.8%
+	JavaScript, 71.8%
+	SQL, 59.0%
+	PHP, 44.2%
+	Python, 38.3%
+
